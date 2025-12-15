@@ -10,9 +10,7 @@ It supports multilingual experiments (English, French, Arabic) and includes anno
 - Ethical generation process using synthetic voices
 - For research and evaluation purposes only
 
- **Access Policy**
-Due to ethical and security considerations, the dataset is **not publicly downloadable**.  
-Researchers can request controlled access via the following link:
+
 
  [**(Public Link)**](https://emsicorp-my.sharepoint.com/:u:/g/personal/y_hmimou_emsi_ma/IQAwmYU9iLmwRrzBqq9J7uzYAY_jScZj6I_3NaYHf2qfcl0?e=7K6Sm0)
 
